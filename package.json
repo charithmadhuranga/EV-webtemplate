@@ -1,6 +1,7 @@
 {
   "name": "ev-web",
   "private": true,
+  "homepage": "https://charithmadhuranga.github.io/EV-webtemplate",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
